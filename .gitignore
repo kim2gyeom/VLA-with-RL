@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+runs/
+data/raw_*/
+data/banks/
+data/sim/
+data/*.log
+*.h5
+*.npz
+*.mp4
